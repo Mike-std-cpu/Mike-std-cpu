@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mike Andrade <iframe src="https://giphy.com/embed/ES4Vcv8zWfIt2" width="80" height="80"></h1>
+<h1 align="center">Hi 👋, I'm Mike Andrade <img src="https://giphy.com/embed/ES4Vcv8zWfIt2" width="80" height="80"></h1>
 <h3 align="center">I'm an IPN student from Mexico City, Actually, I'm an Informatic Science student 📕</h3>
 
 - 🔭 I'm currently working on Frontend school projects **on Frontend school projects**
