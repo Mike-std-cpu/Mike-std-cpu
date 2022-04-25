@@ -7,7 +7,7 @@ const mike = {
 
     code: ['JavaScript', 'HTML', 'CSS', 'Python'],
     software: ['git', 'node', 'vue'],
-    disgn : ['Figma', 'Adobe XD', 'Sketch']
+    design : ['Figma', 'Adobe XD', 'Sketch']
 }
 
 const hello = () =>{console.log('Hello, thanks for visit my profile 🙂')} 
