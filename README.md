@@ -21,17 +21,18 @@ const hello = () =>{console.log('Hello, thanks for visit my profile 🙂')}
 --- 
 
 ### 🚀 Code & tools
-
-<img align="left" alt="vsc" width="35" height="35" src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vscode.gif" />
+<div>
     
-<img align="left" alt="vsc" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-    
+<img align="left" alt="vsc" width="35" height="35" src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vscode.gif">
+ 
+<img align="left" alt="html5" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+ 
 <img align="left" alt="css3" width="35px" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-    
+ 
 <img  align="left" alt="javascript" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-    
+ 
 <img align="left" alt="nodejs" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-    
+
 <img align="left" alt="git" width="35" height="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 
 <img align="left" alt="python" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -40,11 +41,11 @@ const hello = () =>{console.log('Hello, thanks for visit my profile 🙂')}
 
 <img align="left" alt="xd" width="35" height="35" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
 
-<br/>
+</div>
     
 ---    
     
-<p align = center> <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="550" hight="500"</p>
+<p align="center"> <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="550" hight="550"</p>
     
 ---
     
