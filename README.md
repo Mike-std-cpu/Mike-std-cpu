@@ -42,10 +42,10 @@ const hello = () =>{console.log('Hello, thanks for visit my profile 🙂')}
 <img align="left" alt="xd" width="35" height="35" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
 
 </div>
-    
----    
-    
-<p align="center"> <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="550" hight="550"</p>
+
+<br/><br/>
+
+<p align="center"> <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="550" hight="550"></p>
     
 ---
     
