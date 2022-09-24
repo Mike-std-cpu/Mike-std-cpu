@@ -2,7 +2,7 @@
 
 [![Twitter: devhuh_mik](https://img.shields.io/twitter/follow/devhuh_mik?style=social)](https://twitter.com/devhuh_mik)
 [![Facebook: Miguel Andrade](https://img.shields.io/badge/Miguel%20Andrade-Profile-9cf?style=appveyor)](https://www.facebook.com/jose.m.drew.09/)
-[![GitHub: Mike-std-cpu](https://img.shields.io/github/followers/Mike-std-cpu?style=social)](https://github.com/Mike-std-cpu)
+[![GitHub: Mike-std-cpu](https://img.shields.io/github/followers/Mike-std-cpu?style=social)](https://github.com/Mike-std-cpu)<img src="https://raw.githubusercontent.com/Mike-std-cpu/Mike-std-cpu/main/img/octocat-1663991304978.png" width="55">
 
 
 
