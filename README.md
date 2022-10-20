@@ -1,4 +1,4 @@
-<p><h2> Hi 👋, I'm Mike Andrade  <img src="https://monophy.com/media/32LbFsJtCwTf9wOM9m/monophy.gif" width="55"></h2> </p>
+<p><h2> Hi 👋, I'm Mike Andrade  <img src="https://monophy.com/media/32LbFsJtCwTf9wOM9m/monophy.gif" width="55"><img align="right" src="https://media2.giphy.com/media/Md5UqmyyS2dhu/giphy.gif?cid=ecf05e47xz7usztbbr6zilahhx1218z3kp513p9kfxrpnsma&rid=giphy.gif&ct=g" width="80"></h2> </p>
 
 [![Twitter: devhuh_mik](https://img.shields.io/twitter/follow/devhuh_mik?style=social)](https://twitter.com/devhuh_mik)
 [![Facebook: Miguel Andrade](https://img.shields.io/badge/Miguel%20Andrade-Profile-9cf?style=appveyor)](https://www.facebook.com/jose.m.drew.09/)
@@ -21,7 +21,8 @@ const hello = () =>{console.log('Hello, thanks for visit my profile 🙂')}
 
 --- 
 
-### 🚀 Code & tools
+### <img src="https://i.gifer.com/origin/2f/2f548a4cff82755977ae34fe08e4ac50_w200.webp" width="30"> Code & tools
+
 <div>
     
 <img align="left" alt="vsc" width="35" height="35" src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vscode.gif">
@@ -46,8 +47,9 @@ const hello = () =>{console.log('Hello, thanks for visit my profile 🙂')}
 
 <br/><br/>
 
-<p align="center"> <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="550" hight="550"></p>
+<p align="center"> <img src="https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500" hight="200"><img src="https://media1.giphy.com/media/2Rc2BC6AwdOncuw6Sf/giphy.gif?cid=ecf05e47bit7eqpyvvwuaickudn6qvapogo7n4rmu3w3exi8&rid=giphy.gif&ct=g" width="300" hight="400" align="right"></p>
+
     
 ---
     
-🪄 Thanks for watching [@Mike Andrade](https://github.com/Mike-std-cpu)
+🪄 Thanks for watching [@Mike Andrade](https://github.com/Mike-std-cpu)<img align="left" alt="xd" width="35" height="35" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.webp" />
