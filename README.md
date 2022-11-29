@@ -1,4 +1,4 @@
-<p><h2> Hi 👋, I'm Mike Andrade  <img src="https://monophy.com/media/32LbFsJtCwTf9wOM9m/monophy.gif" width="55"><img align="right" src="https://media2.giphy.com/media/Md5UqmyyS2dhu/giphy.gif?cid=ecf05e47xz7usztbbr6zilahhx1218z3kp513p9kfxrpnsma&rid=giphy.gif&ct=g" width="80"></h2> </p>
+<p><h2> Hi 👋, I'm Mike Andrade  <img src="https://monophy.com/media/32LbFsJtCwTf9wOM9m/monophy.gif" width="55"><img align="right" src="https://media4.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=790b761188135dd5b93687b4cbea8040f3c8c63896cfa43a&rid=giphy.gif&ct=s" width="64"></h2> </p>
 
 [![Twitter: devhuh_mik](https://img.shields.io/twitter/follow/devhuh_mik?style=social)](https://twitter.com/devhuh_mik)
 [![Facebook: Miguel Andrade](https://img.shields.io/badge/Miguel%20Andrade-Profile-9cf?style=appveyor)](https://www.facebook.com/jose.m.drew.09/)
@@ -12,7 +12,7 @@
 const mike = {
 
     code: ['JavaScript', 'HTML', 'CSS', 'Python'],
-    software: ['git', 'node', 'vue'],
+    software: ['git', 'node', 'vue', React],
     design : ['Figma', 'Adobe XD', 'Sketch']
 }
 
@@ -21,7 +21,7 @@ const hello = () =>{console.log('Hello, thanks for visit my profile 🙂')}
 
 --- 
 
-### <img src="https://i.gifer.com/origin/2f/2f548a4cff82755977ae34fe08e4ac50_w200.webp" width="30"> Code & tools
+### <img src="https://media1.giphy.com/media/WcYnTzdrjQphdu33xs/giphy.gif?cid=ecf05e47811b4whod1df8jvs7i5dxl2r3hl2t7gq2r7noud3&rid=giphy.gif&ct=s" width="35"> Code & tools
 
 <div>
     
@@ -47,7 +47,7 @@ const hello = () =>{console.log('Hello, thanks for visit my profile 🙂')}
 
 <br/><br/>
 
-<p align="center"> <img src="https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500" hight="200"><img src="https://media1.giphy.com/media/2Rc2BC6AwdOncuw6Sf/giphy.gif?cid=ecf05e47bit7eqpyvvwuaickudn6qvapogo7n4rmu3w3exi8&rid=giphy.gif&ct=g" width="300" hight="400" align="right"></p>
+<p align="center"> <img src="https://media0.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=ecf05e47sygidxdcdwy54dba4ztznuwexslh9135ehu9p6yl&rid=giphy.gif&ct=s" width="500" hight="200"><img src="https://media1.giphy.com/media/2Rc2BC6AwdOncuw6Sf/giphy.gif?cid=ecf05e47bit7eqpyvvwuaickudn6qvapogo7n4rmu3w3exi8&rid=giphy.gif&ct=g" width="300" hight="400" align="right"></p>
 
     
 ---
