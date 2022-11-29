@@ -12,7 +12,7 @@
 const mike = {
 
     code: ['JavaScript', 'HTML', 'CSS', 'Python'],
-    software: ['git', 'node', 'vue', React],
+    software: ['git', 'node', 'vue', 'React'],
     design : ['Figma', 'Adobe XD', 'Sketch']
 }
 
