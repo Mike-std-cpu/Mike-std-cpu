@@ -1,4 +1,4 @@
-<p><h2> Hi 👋, I'm Mike Andrade  <img src="https://monophy.com/media/32LbFsJtCwTf9wOM9m/monophy.gif" width="55"><img align="right" src="https://media4.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=790b761188135dd5b93687b4cbea8040f3c8c63896cfa43a&rid=giphy.gif&ct=s" width="64"></h2> </p>
+<p><h2> Hi 👋, I'm Mike Andrade  <img src="https://monophy.com/media/32LbFsJtCwTf9wOM9m/monophy.gif" width="55"><img align="right" src="https://media4.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=790b761188135dd5b93687b4cbea8040f3c8c63896cfa43a&rid=giphy.gif&ct=s" width="63"></h2> </p>
 
 [![Twitter: devhuh_mik](https://img.shields.io/twitter/follow/devhuh_mik?style=social)](https://twitter.com/devhuh_mik)
 [![Facebook: Miguel Andrade](https://img.shields.io/badge/Miguel%20Andrade-Profile-9cf?style=appveyor)](https://www.facebook.com/jose.m.drew.09/)
@@ -47,7 +47,7 @@ const hello = () =>{console.log('Hello, thanks for visit my profile 🙂')}
 
 <br/><br/>
 
-<p align="center"> <img src="https://media0.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=ecf05e47sygidxdcdwy54dba4ztznuwexslh9135ehu9p6yl&rid=giphy.gif&ct=s" width="500" hight="200"><img src="https://media1.giphy.com/media/2Rc2BC6AwdOncuw6Sf/giphy.gif?cid=ecf05e47bit7eqpyvvwuaickudn6qvapogo7n4rmu3w3exi8&rid=giphy.gif&ct=g" width="300" hight="400" align="right"></p>
+<p align="center"> <img src="https://media1.giphy.com/media/gHnBLyeYE6hboT3t3o/giphy.gif?cid=790b7611501c732f998a81ed3eee78d0d43df8e84e2c5afa&rid=giphy.gif&ct=s" width="300" hight="50"><img src="https://media1.giphy.com/media/xT9IgxMb1I1ZpaM2C4/giphy.gif?cid=790b7611982922680e89af92e767e25f9d6c8850045a5d3b&rid=giphy.gif&ct=s" width="300" hight="400" align="right"></p>
 
     
 ---
