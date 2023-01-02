@@ -21,6 +21,13 @@ const hello = () =>{console.log('Hello, thanks for visit my profile 🙂')}
 
 --- 
 
+### <img src= "https://media3.giphy.com/media/KDPgrtu0QlkjDP9mj4/giphy.gif?cid=ecf05e47jur46zl7n3wjzo5hm0hcv06g6gslcgmfs5bjum4r&rid=giphy.gif&ct=s" width="40">About me
+
+* 👨‍🚀**Name:** J. Miguel Andrade.
+* 📍**Location:** México City mx.
+* 🙊**Languages:** English & Spanish.
+* 🎯**Interests:** Web design and development.
+
 ### <img src="https://media1.giphy.com/media/WcYnTzdrjQphdu33xs/giphy.gif?cid=ecf05e47811b4whod1df8jvs7i5dxl2r3hl2t7gq2r7noud3&rid=giphy.gif&ct=s" width="35"> Code & tools
 
 <div>
