@@ -2,7 +2,7 @@
 
 <h2><img src= "https://media3.giphy.com/media/KDPgrtu0QlkjDP9mj4/giphy.gif?cid=ecf05e47jur46zl7n3wjzo5hm0hcv06g6gslcgmfs5bjum4r&rid=giphy.gif&ct=s" width="40">About me</h2>
 
-<img align='right' src="https://raw.githubusercontent.com/Mike-std-cpu/Mike-std-cpu/main/img/octocat-1663991304978.png" width="220">
+<img align='right' src="https://raw.githubusercontent.com/Mike-std-cpu/Mike-std-cpu/main/img/octocat-1663991304978.png" width="200">
 
 * 👨‍🚀**Name:** J. Miguel Andrade.
 * 📍**Location:** México City mx.
@@ -56,7 +56,7 @@ const hello = () =>{console.log('Hello, thanks for visit my profile 🙂')}
 <p><h2><img src="https://media1.giphy.com/media/WcYnTzdrjQphdu33xs/giphy.gif?cid=ecf05e47811b4whod1df8jvs7i5dxl2r3hl2t7gq2r7noud3&rid=giphy.gif&ct=s" width="35"> I'm Currently ... </h2></p>
 
 <div>
-    <img align="right" src="https://media1.giphy.com/media/gHnBLyeYE6hboT3t3o/giphy.gif?cid=790b7611501c732f998a81ed3eee78d0d43df8e84e2c5afa&rid=giphy.gif&ct=s" width="210" >
+    <img align="right" src="https://media1.giphy.com/media/gHnBLyeYE6hboT3t3o/giphy.gif?cid=790b7611501c732f998a81ed3eee78d0d43df8e84e2c5afa&rid=giphy.gif&ct=s" width="200" >
 <ul>
   <li>🚀 Learning more in practical cases & complementing my knowledge in JS.</li>
   <li>🌿 Getting started in the world of react and other frameworks.</li>
