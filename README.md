@@ -1,5 +1,7 @@
-<p><h1> Hi 👋, I'm J. Miguel Andrade  <img src="https://monophy.com/media/32LbFsJtCwTf9wOM9m/monophy.gif" width="55"><img align="right" src="https://media4.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=790b761188135dd5b93687b4cbea8040f3c8c63896cfa43a&rid=giphy.gif&ct=s" width="63"></h1> </p>
+<p><h1> Hello everyone!!<img src="https://monophy.com/media/32LbFsJtCwTf9wOM9m/monophy.gif" width="55"></h1></p>
 
+<p align="center"> <b> Life seems to be reactive, but it is actually predictive.</b> <br> <i>James Clear </p>
+    
 <h2><img src= "https://media3.giphy.com/media/KDPgrtu0QlkjDP9mj4/giphy.gif?cid=ecf05e47jur46zl7n3wjzo5hm0hcv06g6gslcgmfs5bjum4r&rid=giphy.gif&ct=s" width="40">About me</h2>
 
 <img align='right' src="https://raw.githubusercontent.com/Mike-std-cpu/Mike-std-cpu/main/img/octocat-1663991304978.png" width="200">
@@ -71,4 +73,4 @@ const hello = () =>{console.log('Hello, thanks for visit my profile 🙂')}
 
 ---
     
-🪄 Thanks for watching [@Mike Andrade](https://github.com/Mike-std-cpu)<img align="left" alt="xd" width="35" height="35" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.webp" />
+<p>Thanks for watching [@Mike Andrade](https://github.com/Mike-std-cpu)<img align="left" alt="xd" width="35" height="35" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.webp" /><img align="right" src="https://media4.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=790b761188135dd5b93687b4cbea8040f3c8c63896cfa43a&rid=giphy.gif&ct=s" width="38"></p>
