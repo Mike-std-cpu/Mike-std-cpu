@@ -73,4 +73,4 @@ const hello = () =>{console.log('Hello, thanks for visit my profile 🙂')}
 
 ---
     
-<p>Thanks for watching [@Mike Andrade](https://github.com/Mike-std-cpu)<img align="left" alt="xd" width="35" height="35" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.webp" /><img align="right" src="https://media4.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=790b761188135dd5b93687b4cbea8040f3c8c63896cfa43a&rid=giphy.gif&ct=s" width="38"></p>
+<p align="right"> Thanks for watching! <img align="right" alt="xd" width="35" height="35" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.webp" /></p>
